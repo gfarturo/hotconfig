@@ -1,4 +1,4 @@
-Indicator Name,Indicator Type,Link to File
+name,type,link
 totalMappers,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
 totalRoads,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
 totalBuildings,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
