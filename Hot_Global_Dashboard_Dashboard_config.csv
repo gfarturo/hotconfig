@@ -1,6 +1,6 @@
-name,type,link
-totalMappers,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
-totalRoads,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
-totalBuildings,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
-totalProjects,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
-totalEvents,csv,https://raw.githubusercontent.com/MissingMaps/events/master/events.csv
+name,category,type,link
+totalMappers,mapping,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
+totalRoads,mapping,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
+totalBuildings,mapping,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
+totalProjects,mapping,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
+totalEvents,awareness,csv,https://github.com/MissingMaps/events/blob/master/events.csv
