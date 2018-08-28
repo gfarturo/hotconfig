@@ -3,4 +3,4 @@ totalMappers,mapping,json,https://raw.githubusercontent.com/hotosm/hotosm-websit
 totalRoads,mapping,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
 totalBuildings,mapping,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
 totalProjects,mapping,json,https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/aggregatedStats.json
-totalEvents,awareness,csv,https://github.com/MissingMaps/events/blob/master/events.csv
+totalEvents,awareness,csv,https://raw.githubusercontent.com/MissingMaps/events/master/events.csv
